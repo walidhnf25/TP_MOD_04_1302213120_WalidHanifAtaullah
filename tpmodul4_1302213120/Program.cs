@@ -82,10 +82,10 @@ namespace tpmodul4_1302213120
             Console.WriteLine("Maleer : " + kodepos + "\n");
 
             DoorMachine door = new DoorMachine();
-            door.Buka();    // Output: "Pintu tidak terkunci"
-            door.Kunci();   // Output: "Pintu terkunci"
-            door.Kunci();   // Output: "Pintu sudah terkunci"
-            door.Buka();    // Output: "Pintu tidak terkunci"
+            door.Buka();    /// Output: "Pintu tidak terkunci"
+            door.Kunci();   /// Output: "Pintu terkunci"
+            door.Kunci();   /// Output: "Pintu sudah terkunci"
+            door.Buka();    /// Output: "Pintu tidak terkunci"
         }
     }
 }
