@@ -1,0 +1,8 @@
+C:\Users\walid\source\repos\tpmodul4_1302213120\tpmodul4_1302213120\bin\Debug\tpmodul4_1302213120.exe.config
+C:\Users\walid\source\repos\tpmodul4_1302213120\tpmodul4_1302213120\bin\Debug\tpmodul4_1302213120.exe
+C:\Users\walid\source\repos\tpmodul4_1302213120\tpmodul4_1302213120\bin\Debug\tpmodul4_1302213120.pdb
+C:\Users\walid\source\repos\tpmodul4_1302213120\tpmodul4_1302213120\obj\Debug\tpmodul4_1302213120.csproj.AssemblyReference.cache
+C:\Users\walid\source\repos\tpmodul4_1302213120\tpmodul4_1302213120\obj\Debug\tpmodul4_1302213120.csproj.SuggestedBindingRedirects.cache
+C:\Users\walid\source\repos\tpmodul4_1302213120\tpmodul4_1302213120\obj\Debug\tpmodul4_1302213120.csproj.CoreCompileInputs.cache
+C:\Users\walid\source\repos\tpmodul4_1302213120\tpmodul4_1302213120\obj\Debug\tpmodul4_1302213120.exe
+C:\Users\walid\source\repos\tpmodul4_1302213120\tpmodul4_1302213120\obj\Debug\tpmodul4_1302213120.pdb
